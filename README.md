@@ -4,7 +4,7 @@
 
 Software testing professional focused on test automation, with hands-on experience using tools such as Cypress, Selenium, Postman, and Jira, always prioritizing quality, efficiency, and adherence to QA best practices. I have worked on UI test automation with Cypress, API testing and automation with Postman, continuous integration through GitHub Actions and CI/CD pipelines, as well as mobile test automation using JavaScript and Appium. I also have knowledge of database queries and agile methodologies, with an emphasis on Scrum applied to the software testing process.
 
-I am currently in the fourth semester of my degree in Information Systems, where I continue to deepen both my technical and theoretical knowledge. I am also studying automation with Python and Robot Framework, as well as HTML fundamentals applied to test automation. I am seeking opportunities to apply these skills in practice and to continue growing as a QA professional.
+I am currently in the fourth semester of my degree in Information Systems in UVV (Universidade Vila Velha), where I continue to deepen both my technical and theoretical knowledge. I am also studying automation with Python and Robot Framework, as well as HTML fundamentals applied to test automation. I am seeking opportunities to apply these skills in practice and to continue growing as a QA professional.
 
 ---
 
